@@ -69,11 +69,11 @@ ul {
         float:left;
     }
     #MyFoot {
-        width:90%
+        width:90%;
     }
 }
 
-@media only screen and (max-width: 1000px) and (min-width:481px) {
+@media only screen and (max-width: 1000px) and (min-width:479px) {
     .set {
         width: 40%;
     }
@@ -90,6 +90,6 @@ ul {
         float: right;
     }
     #MyFoot {
-        width: 94%
+        width: 94%;
     }
 }
